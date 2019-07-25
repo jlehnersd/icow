@@ -1,6 +1,6 @@
 <center>
   <h1>
-    Prediction of Attempts at Peaceful Settlment Disputes Using the Issue Correlates of War Data Set 
+    Prediction of Attempts at Peaceful Resolution of Disputes Using the Issue Correlates of War Data Set 
   </h1>
   <h2>
     Jeremy Lehner
