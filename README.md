@@ -28,11 +28,11 @@ I would like to live in a world with less war. My dream is that one day, everyon
 
 ## Data:
 
-		#### Source
+### Source
 
 Issue Correlates of War project](https://www.paulhensel.org/icow.html)
 
-#### Description
+### Description
 
 The data set consists of 10,041 rows and 113 columns. Each row represents a territorial dispute between two groups in a given year. All columns contain integer values, most of which represent a categorical variable. Most rows contain null valuables for at least one variable. The target variable is whether or not a peaceful attempt was made to resolve a dispute in a given year (1 = a peaceful attempt was made, 0 = no peaceful attempt was made).
 
